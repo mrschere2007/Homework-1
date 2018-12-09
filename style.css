@@ -1,0 +1,89 @@
+/** Style sheet for Index page */
+
+body {
+  /* padding: 0; */
+  /* margin: 0; */
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+  /* font-size: 18px; */
+  /* line-height: 150%; */
+  /* color: #333; */
+  background: #efeee7;
+}
+
+.name {
+  background: gray;
+  padding: 30px;
+  font-size: 28px;
+  color: white;
+}
+
+nav{
+  clear: both;
+  float: right;
+}
+
+#About, #Portfolio, #Contact{
+  padding: 0px 0; 
+  margin: 0;
+  margin-bottom: 60px;
+  font-size: 20px;
+  color: black;
+  float: left;
+
+}
+
+h1 {
+  padding: 0px 0;
+  margin: 0;
+  margin-bottom: 60px;
+  font-size: 28px;
+  color: black;
+  float: left;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+a {
+  color: white;
+}
+
+.container {
+  float: right;
+  padding: 40px;
+  width: 80%;
+  background-color: white; 
+  height: 300px;
+  outline-style: solid;
+
+}
+
+
+#main-bio,
+#contact-info,
+#bio-image 
+
+#main-bio {
+  width: 100%;
+}
+
+
+#bio-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+
+footer{
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  border-bottom-style: solid;
+  
+}
+  
+
+  
+  
